@@ -8,7 +8,7 @@ To open the Jupyter Notebook and run the code in Google Colab click on the follo
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Otherwise find the notebook in the repository here.
+Otherwise you can find the notebook in the repository here.
 
 
 ### Credits
