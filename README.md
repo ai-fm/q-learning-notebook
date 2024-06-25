@@ -1,5 +1,10 @@
 # Intro to Reinforcement Learning: Q-Learning
 
+
+
+### Hands-on introduction to Q-Learning
+---
+
 This Jupyter Notebook provides introductory exercises for Q-Learning in the field of Reinforcement Learning. 
 
 To open the Jupyter Notebook and run the code in Google Colab click on the following badge:
@@ -11,8 +16,18 @@ To open the Jupyter Notebook and run the code in Google Colab click on the follo
 Otherwise you can find the notebook in the repository here.
 
 
-### Credits
+### Exercise on Expected Accumulated Reward
+---
 
+<img src="MDP_exercise.svg" alt="Exercise on Expected Accumulated Reward" width=700px>
+
+
+
+
+### Credits
+---
+
+- Joshua Wendland, Chair of Formal Methods and Artificial Intelligence, Ruhr University Bochum
 - [Huggingface Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 - [Gymnasium](https://gymnasium.farama.org/)
-- Joshua Wendland, Chair of Formal Methods and Artificial Intelligence, Ruhr University Bochum
+- Flaticon: smalllikeart, Freepik, photo3idea_studio
