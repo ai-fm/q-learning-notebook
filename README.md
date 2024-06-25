@@ -21,10 +21,18 @@ Otherwise you can find the notebook in the repository here.
 
 <img src="MDP_exercise.svg" alt="Exercise on Expected Accumulated Reward" width=700px>
 
+**Solution:**
+We use a discount factor of 1.0 .  
+From the kitchen ...
+- choosing action "go to living room" gives us the expected reward:  
+  1.0 * 10 + 0.9 * 10 + 0.1 * (-100) = 10 + 9 - 10 = 9
+- choosing action "go to bedroom" gives us the expected reward  
+  1.0 * 30 + 0.7 * 10 + 0.3 * (-100) = 30 + 7 - 30 = 7
+
+**Conclusion:** Choosing the action "go to living room" is the safer option here and will provide a higher reward on average.
 
 
-
-### Credits
+# Credits
 ---
 
 - Joshua Wendland, Chair of Formal Methods and Artificial Intelligence, Ruhr University Bochum
