@@ -1,8 +1,12 @@
 # Intro to Reinforcement Learning: Q-Learning
 
+### 1. Exercise on Expected Cumulative Reward
+---
+
+<img src="MDP_exercise.svg" alt="Exercise on Expected Accumulated Reward" width=700px>
 
 
-### Hands-on introduction to Q-Learning
+### 2. Hands-on introduction to Q-Learning
 ---
 
 This Jupyter Notebook provides introductory exercises for Q-Learning in the field of Reinforcement Learning. 
@@ -14,14 +18,6 @@ To open the Jupyter Notebook and run the code in Google Colab click on the follo
 </a>
 
 Otherwise you can find the notebook in the repository here.
-
-
-### Exercise on Expected Accumulated Reward
----
-
-<img src="MDP_exercise.svg" alt="Exercise on Expected Accumulated Reward" width=700px>
-
-
 
 
 ### Credits
