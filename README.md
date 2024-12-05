@@ -30,7 +30,7 @@ Otherwise you can find the notebook in the repository here.
 ### Credits
 ---
 
-- Joshua Wendland, Chair of Formal Methods and Artificial Intelligence, Ruhr University Bochum
+- Joshua Wendland and Jule Schmidt, Chair of Formal Methods and Artificial Intelligence, Ruhr University Bochum
 - [Huggingface Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 - [Gymnasium](https://gymnasium.farama.org/)
 - Flaticon: smalllikeart, Freepik, photo3idea_studio
